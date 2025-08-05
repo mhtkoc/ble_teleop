@@ -5,7 +5,7 @@
   <version>0.0.0</version>
   <description>Raspberry pi ble connection by mobile phones on Gatt Server for autonomus mobile robots.</description>
   <maintainer email="muhammetkoc874@gmail.com">muhammetkoc</maintainer>
-  <license>TODO: License declaration</license>
+  <license>Apache License 2.0</license>
 
   <depend>rclpy</depend>
   <depend>geometry_msgs</depend>
