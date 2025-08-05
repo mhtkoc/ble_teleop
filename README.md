@@ -6,7 +6,10 @@ Bu paket Bluetooth Low Energy (BLE) GATT sunucusu üzerinden gelen komutları `c
 
 - BLE GATT sunucusu olarak çalışır
 - F, B, L, R karakterlerini robotun hareket komutlarına dönüştürür
-- ROS2 `cmd_vel` topic'ine `geometry_msgs/Twist` mesajları yayınlar
+- ROS2 `cmd_vel` topic'ine `geometry_msgs/TwistStamped` mesajları yayınlar
+
+# Android telefondan bağlanmak için
+- [Serial Bluetooth Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal) uygulamasını kullanabilirsiniz.
 
 ## Komutlar
 
