@@ -3,8 +3,8 @@
 <package format="3">
   <name>ble_teleop</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="muhammetkoc874@gmail.com">pi</maintainer>
+  <description>Raspberry pi ble connection by mobile phones on Gatt Server for autonomus mobile robots.</description>
+  <maintainer email="muhammetkoc874@gmail.com">muhammetkoc</maintainer>
   <license>TODO: License declaration</license>
 
   <depend>rclpy</depend>
